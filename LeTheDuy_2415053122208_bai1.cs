@@ -6,7 +6,7 @@ namespace HelloCSharp.CSharp
     {
         static void Main(string[] args)
         {
-            // Khai báo một hằng số có kiểu int.
+           // hihihihihi
             // Bạn không thể gán giá trị mới cho hằng số.
             const int MAX_SCORE = 100;
 
